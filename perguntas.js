@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quiz',
+    'Uma familia tem 7 filhos e cada um deles tem uma irmã, quantos filhos tem o casal?',
+    'Oito filhos'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quiz',
+    'Qual país venceu a ultima copa do mundo?',
+    'A Argentina'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz eu gostaria em Inglês?',
+    'Oi em ingles é I Would like (Aí úud laike)'
 )

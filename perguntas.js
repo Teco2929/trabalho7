@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz eu gostaria em Inglês?',
-    'Oi em ingles é I Would like (Aí úud laike)'
+    'em ingles é I Would like (Aí úud laike)'
 )
